@@ -8,21 +8,21 @@ For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries,
 
 # Contents
 
-[Images](#images)
+[Metadata](#metadata)
 
 [Text](#text)
 
-[Metadata](#metadata)
+[Images](#images)
 
 [Spatial](#spatial)
 
-# Images
+# Metadata
 
-IIIF (International Image Interoerability Framework) standardizes the library curation of digital images, making scripts composed for querying IIIF data relatively easy to adapt to different digital collections
+[British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
 
-[Smithsonian IIIF Notebooks](https://github.com/hibernator11/notebook-iiif-images) - Three separate notebooks for querying IIIF manifests, downloading images, and applying rudimentary facial recognition algorithms. 
+[Zenodo Rest API](https://github.com/LibraryCarpentry/awesome-jupyter-glam/blob/master/notebooks-guides/Zenodo_API_Notebook.ipynb) - Basic Python Notebook for querying the Zenodo API 
 
-[Library of Congress Notebooks](https://github.com/LibraryOfCongress/data-exploration) - Includes notebooks for quantifying collections and working with IIIF images
+[Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
 
 # Text
 
@@ -32,13 +32,13 @@ Textual data is readily available for public domain materials through various di
 
 [HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader/tree/master/examples) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
 
-# Metadata
+# Images
 
-[British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
+IIIF (International Image Interoerability Framework) standardizes the library curation of digital images, making scripts composed for querying IIIF data relatively easy to adapt to different digital collections
 
-[Zenodo Rest API](https://github.com/LibraryCarpentry/awesome-jupyter-glam/blob/master/notebooks-guides/Zenodo_API_Notebook.ipynb) - Basic Python Notebook for querying the Zenodo API 
+[Smithsonian IIIF Notebooks](https://github.com/hibernator11/notebook-iiif-images) - Three separate notebooks for querying IIIF manifests, downloading images, and applying rudimentary facial recognition algorithms. 
 
-[Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
+[Library of Congress Notebooks](https://github.com/LibraryOfCongress/data-exploration) - Includes notebooks for quantifying collections and working with IIIF images
 
 # Spatial
 
