@@ -26,10 +26,10 @@ Textual data is readily available for public domain materials through various di
 
 [National Library of Scotland Text Mining Notebooks](https://data.nls.uk/tools/jupyter-notebooks/) - A half dozen notebooks for text mining corpora produced from the National Library of Scotland's collections. 
 
-[HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
+[HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader/tree/master/examples) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
 
 # Metadata
 
-
+[British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
 
 
