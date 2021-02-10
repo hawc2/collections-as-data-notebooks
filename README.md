@@ -4,7 +4,7 @@ A WORK-IN-PROGRESS curated list of awesome Jupyter notebooks for querying and an
 
 Inspired by lists like [Awesome Jupyter: A Curated List](https://github.com/markusschanta/awesome-jupyter), this repo will pull together Collections as Data notebooks available on other Github repos, Binders, etc. There was a previous attempt at such a repo, a few years ago: [Awesome Jupyter Glam](https://github.com/LibraryCarpentry/awesome-jupyter-glam). Relevant resources from the GLAM repo have been added to this list.
 
-For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries, Libraries, and Museums), see the [GLAM Workbench](https://glam-workbench.github.io/getting-started/). The GLAM Workbench is the most exhaustive collection of Collections as Data Notebooks currently available. All operational notebooks from the site will be added to this list. 
+For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries, Libraries, and Museums), see the [GLAM Workbench](https://glam-workbench.github.io/getting-started/). The GLAM Workbench is the most exhaustive collection of Collections as Data Notebooks currently available. Mostly based off of materials in Australia and New Zealand National Libraries, their [Github repo](https://github.com/GLAM-Workbench) is the easiest way to access their notebooks directly. All operational notebooks from the site will be added to this list. 
 
 # Contents
 
@@ -13,6 +13,8 @@ For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries,
 [Text](#text)
 
 [Metadata](#metadata)
+
+[Spatial](#spatial)
 
 # Images
 
@@ -38,8 +40,9 @@ Textual data is readily available for public domain materials through various di
 
 [Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
 
+# Spatial
 
-
+[Digital Archaeology](https://electricarchaeology.ca/2018/08/21/jupyter-notebooks-for-digital-archaeology-and-history-too/) - A set of Jupyter Notebooks by Shawn Graham focused on digital archaeology methods, including accessing the Chronicling America API
 
 
 
