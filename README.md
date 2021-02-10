@@ -8,17 +8,19 @@ For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries,
 
 One long-term goal is to convert as many of these as possible to Google Colab notebooks for improving reproducibility. 
 
-# Contents
+*NOTE*: For now, to make additions/revisions to this list, please email me with an explanation and the link to the library notebooks. 
 
-[Metadata](#metadata)
+# Table of Contents
 
-[Text](#text)
+[Metadata](##metadata)
 
-[Images](#images)
+[Text](##text)
 
-[Spatial](#spatial)
+[Images](##images)
 
-# Metadata
+[Spatial](##spatial)
+
+## Metadata
 
 [British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
 
@@ -26,7 +28,7 @@ One long-term goal is to convert as many of these as possible to Google Colab no
 
 [Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
 
-# Text
+## Text
 
 Textual data is readily available for public domain materials through various digital collections' APIS such as HathiTrust or the National Library of Scotland. 
 
@@ -34,7 +36,7 @@ Textual data is readily available for public domain materials through various di
 
 [HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader/tree/master/examples) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
 
-# Images
+## Images
 
 IIIF (International Image Interoerability Framework) standardizes the library curation of digital images, making scripts composed for querying IIIF data relatively easy to adapt to different digital collections
 
@@ -42,7 +44,7 @@ IIIF (International Image Interoerability Framework) standardizes the library cu
 
 [Library of Congress Notebooks](https://github.com/LibraryOfCongress/data-exploration) - Includes notebooks for quantifying collections and working with IIIF images
 
-# Spatial
+## Spatial
 
 [Digital Archaeology](https://electricarchaeology.ca/2018/08/21/jupyter-notebooks-for-digital-archaeology-and-history-too/) - A set of Jupyter Notebooks by Shawn Graham focused on digital archaeology methods, including accessing the Chronicling America API
 
