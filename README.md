@@ -9,7 +9,7 @@ Inspired by lists like [Awesome Jupyter: A Curated List](https://github.com/mark
 # Contents
 
 [Images](#images)
-[Text][#text]
+[Text](#text)
 [Metadata](#metadata)
 
 # Images
