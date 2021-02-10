@@ -21,8 +21,7 @@ One long-term goal is to convert as many of these as possible to Google Colab no
 
 * [British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
 * [Zenodo Rest API](https://github.com/LibraryCarpentry/awesome-jupyter-glam/blob/master/notebooks-guides/Zenodo_API_Notebook.ipynb) - Basic Python Notebook for querying the Zenodo API 
-
-[Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
+* [Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
 
 ## Text
 
