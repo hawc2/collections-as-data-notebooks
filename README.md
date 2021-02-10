@@ -16,15 +16,15 @@ Inspired by lists like [Awesome Jupyter: A Curated List](https://github.com/mark
 
 IIIF (International Image Interoerability Framework) standardizes the library curation of digital images, making scripts composed for querying IIIF data relatively easy to adapt to different digital collections
 
-[Smithsonian IIIF Notebooks](https://github.com/hibernator11/notebook-iiif-images)
+[Smithsonian IIIF Notebooks](https://github.com/hibernator11/notebook-iiif-images) - Three separate notebooks for querying IIIF manifests, downloading images, and applying rudimentary facial recognition algorithms. 
 
 # Text
 
 Textual data is readily available for public domain materials through various digital collections' APIS such as HathiTrust or the National Library of Scotland. 
 
-[National Library of Scotland Text Mining Notebooks](https://data.nls.uk/tools/jupyter-notebooks/)
+[National Library of Scotland Text Mining Notebooks](https://data.nls.uk/tools/jupyter-notebooks/) - A half dozen notebooks for text mining corpora produced from the National Library of Scotland's collections. 
 
-[HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader)
+[HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
 
 # Metadata
 
