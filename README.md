@@ -12,19 +12,15 @@ One long-term goal is to convert as many of these as possible to Google Colab no
 
 # Table of Contents
 
-[Metadata](##metadata)
-
-[Text](##text)
-
-[Images](##images)
-
-[Spatial](##spatial)
+* [Metadata](##metadata)
+* [Text](##text)
+* [Images](##images)
+* [Spatial](##spatial)
 
 ## Metadata
 
-[British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
-
-[Zenodo Rest API](https://github.com/LibraryCarpentry/awesome-jupyter-glam/blob/master/notebooks-guides/Zenodo_API_Notebook.ipynb) - Basic Python Notebook for querying the Zenodo API 
+* [British Library's Notebooks](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources) - A wide-array of notebooks for querying British Library catalog records 
+* [Zenodo Rest API](https://github.com/LibraryCarpentry/awesome-jupyter-glam/blob/master/notebooks-guides/Zenodo_API_Notebook.ipynb) - Basic Python Notebook for querying the Zenodo API 
 
 [Libcrowds Notebooks](https://github.com/LibCrowds/notebooks/tree/master/notebooks) - Notebooks for analyzing LibCrowds data
 
@@ -32,21 +28,19 @@ One long-term goal is to convert as many of these as possible to Google Colab no
 
 Textual data is readily available for public domain materials through various digital collections' APIS such as HathiTrust or the National Library of Scotland. 
 
-[National Library of Scotland Text Mining Notebooks](https://data.nls.uk/tools/jupyter-notebooks/) - A half dozen notebooks for text mining corpora produced from the National Library of Scotland's collections. 
-
-[HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader/tree/master/examples) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
+* [National Library of Scotland Text Mining Notebooks](https://data.nls.uk/tools/jupyter-notebooks/) - A half dozen notebooks for text mining corpora produced from the National Library of Scotland's collections. 
+* [HTRC Feature Reader](https://github.com/htrc/htrc-feature-reader/tree/master/examples) - The HathiTrust Research Center's Feature reader for parsing HathiTrust's collections as extracted features of page-level parts-of-speech and word frequencies across any given HathiTrust collection.
 
 ## Images
 
 IIIF (International Image Interoerability Framework) standardizes the library curation of digital images, making scripts composed for querying IIIF data relatively easy to adapt to different digital collections
 
-[Smithsonian IIIF Notebooks](https://github.com/hibernator11/notebook-iiif-images) - Three separate notebooks for querying IIIF manifests, downloading images, and applying rudimentary facial recognition algorithms. 
-
-[Library of Congress Notebooks](https://github.com/LibraryOfCongress/data-exploration) - Includes notebooks for quantifying collections and working with IIIF images
+* [Smithsonian IIIF Notebooks](https://github.com/hibernator11/notebook-iiif-images) - Three separate notebooks for querying IIIF manifests, downloading images, and applying rudimentary facial recognition algorithms. 
+* [Library of Congress Notebooks](https://github.com/LibraryOfCongress/data-exploration) - Includes notebooks for quantifying collections and working with IIIF images
 
 ## Spatial
 
-[Digital Archaeology](https://electricarchaeology.ca/2018/08/21/jupyter-notebooks-for-digital-archaeology-and-history-too/) - A set of Jupyter Notebooks by Shawn Graham focused on digital archaeology methods, including accessing the Chronicling America API
+* [Digital Archaeology](https://electricarchaeology.ca/2018/08/21/jupyter-notebooks-for-digital-archaeology-and-history-too/) - A set of Jupyter Notebooks by Shawn Graham focused on digital archaeology methods, including accessing the Chronicling America API
 
 
 
