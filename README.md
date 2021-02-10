@@ -6,6 +6,8 @@ Inspired by lists like [Awesome Jupyter: A Curated List](https://github.com/mark
 
 For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries, Libraries, and Museums), see the [GLAM Workbench](https://glam-workbench.github.io/getting-started/). The GLAM Workbench is the most exhaustive collection of Collections as Data Notebooks currently available. Mostly based off of materials in Australia and New Zealand National Libraries, their [Github repo](https://github.com/GLAM-Workbench) is the easiest way to access their notebooks directly. All operational notebooks from the site will be added to this list. 
 
+One long-term goal is to convert as many of these as possible to Google Colab notebooks for improving reproducibility. 
+
 # Contents
 
 [Metadata](#metadata)
