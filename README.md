@@ -8,9 +8,9 @@ Inspired by lists like [Awesome Jupyter: A Curated List](https://github.com/mark
 
 # Contents
 
-[Images](#Images)
-[Text][#Text
-[Metadata](#Metadata)
+[Images](#images)
+[Text][#text
+[Metadata](#metadata)
 
 # Images
 
