@@ -1,4 +1,4 @@
-# Collections-as-Data-Notebooks
+# Collections-as-Data Notebooks
 
 A WORK-IN-PROGRESS curated list of awesome Jupyter notebooks for querying and analyzing library collections as data. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. 
 
