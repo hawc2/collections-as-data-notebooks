@@ -8,7 +8,7 @@ For an introduction to Jupyter Notebooks for digital methods in GLAM (Galleries,
 
 One long-term goal is to convert as many of these as possible to Google Colab notebooks for improving reproducibility. 
 
-*NOTE*: For now, to make additions/revisions to this list, please email me with an explanation and the link to the library notebooks. 
+*NOTE*: For now, to make additions/revisions to this list, please email me with an explanation and the link to the Jupyter notebooks. 
 
 # Table of Contents
 
