@@ -100,7 +100,7 @@ This version includes downloaded notebooks from each source repo, with per-folde
 | [05-library-of-congress](05-library-of-congress/) | Library of Congress | JSON API + IIIF tutorials | Fixed -- HTTPS URLs; works as-is |
 | [06-contentdm-iiif](06-contentdm-iiif/) | hawc2 | ContentDM IIIF image download | Works -- verify IIIF v2 vs v3 manifest format |
 | [07-digital-archaeology](07-digital-archaeology/) | O-DATE | Welcome/orientation | Fixed -- git branch name, requirements |
-| [08-htrc-scifi](08-htrc-scifi/) | HTRC EF API + Thompson & Mimno | Sci-fi corpus builder + analysis | Works -- 1,206 volumes, EF API live |
+| [08-htrc-scifi](08-htrc-scifi/) | HTRC EF API + Thompson & Mimno | Sci-fi corpus builder + analysis | Works -- 5,811 volumes (expanded workset), EF API live |
 
 See each folder's README for detailed assessments, known issues, and the full inventory of what's available in each source repo.
 
